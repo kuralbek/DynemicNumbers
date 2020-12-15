@@ -38,6 +38,7 @@ namespace DynamicNumbers
                 else if (inputUser == "exit")
                 {
                     isWork = false;
+                    //HellWorld
                 }
                
             }
